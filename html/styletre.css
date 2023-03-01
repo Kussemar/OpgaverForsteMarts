@@ -1,0 +1,29 @@
+
+
+h1{
+    font-family: "Arial Rounded MT Bold";
+    font-size: 275px;
+    font-weight: bold;
+    text-align: center;
+    color: #111111;
+}
+
+h2{
+    font-family: SansSerif;
+    font-size: 30px;
+    text-align: center;
+    color: #111111;
+}
+
+p{
+    font-family: Arial;
+    font-size: 14px;
+    color: #685206;
+}
+
+body{
+    background-color: #e7b91b;
+}
+
+
+

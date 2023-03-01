@@ -1,0 +1,27 @@
+/* Stylesheet til opgaver d. 1 første marts */
+
+/* Fonte og skrifter */
+h1{
+    font-size: 38px;
+
+}
+
+/* Mine regler og klasser */
+
+.boldtext{
+    font-weight: bold;
+}
+
+.notbold{
+    font-weight: normal;
+}
+
+.fontsize32{
+    font-size: 32px;
+}
+
+.minregel { /* Punktum betyder det er en klase */
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+}
